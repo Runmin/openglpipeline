@@ -13,6 +13,7 @@ struct matrix{
 struct linequation{
 	double a,b,c;
 	double x1,x2;//range of x
+    double y1,y2;//range of y
 };
 
 struct planequation{
